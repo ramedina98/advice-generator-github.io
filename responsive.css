@@ -1,0 +1,16 @@
+@media screen and (max-width: 425px){
+
+      .card{
+            margin: 0 0.5rem;
+      }
+}
+@media screen and (max-width: 375px){
+      .btn{
+            left: 33%;
+      }
+}
+@media screen and (max-width: 320px){
+      .btn{
+            left: 30%;
+      }
+}
